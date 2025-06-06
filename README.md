@@ -1,3 +1,5 @@
+[![Upload Python Package](https://github.com/DiamondGotCat/allowdynamic/actions/workflows/python-publish.yml/badge.svg)](https://github.com/DiamondGotCat/allowdynamic/actions/workflows/python-publish.yml)
+
 # allowdynamic
 Dynamic, callable-backed array-like access with optional caching.
 
