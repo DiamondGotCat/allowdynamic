@@ -1,6 +1,16 @@
 # allowdynamic
 Dynamic variables in Python
 
+## Install
+```
+pip install allowdynamic
+```
+
+## import
+```
+from allowdynamic import DynamicContainer
+```
+
 ## Example
 ```
 ❯ python
